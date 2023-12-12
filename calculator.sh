@@ -8,3 +8,6 @@ x=a-b
 
 #division
 x=a/b
+
+#multiplication
+x=a*b
