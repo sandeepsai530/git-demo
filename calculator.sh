@@ -2,4 +2,7 @@
 x=a+b
 
 #substraction
-#x=a-b
+x=a-b
+
+#division
+x=a/b
